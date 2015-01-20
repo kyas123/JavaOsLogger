@@ -7,7 +7,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>OS Log</title>
 </head>
-
 <body>
 	<h1>Operating System Log</h1>
 	<s:form action="log" method="post">
